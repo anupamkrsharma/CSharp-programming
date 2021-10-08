@@ -1,0 +1,16 @@
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Time\bin\Debug\net5.0\Time.exe
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Time\bin\Debug\net5.0\Time.deps.json
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Time\bin\Debug\net5.0\Time.runtimeconfig.json
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Time\bin\Debug\net5.0\Time.runtimeconfig.dev.json
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Time\bin\Debug\net5.0\Time.dll
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Time\bin\Debug\net5.0\ref\Time.dll
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Time\bin\Debug\net5.0\Time.pdb
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Time\obj\Debug\net5.0\Time.csproj.AssemblyReference.cache
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Time\obj\Debug\net5.0\Time.GeneratedMSBuildEditorConfig.editorconfig
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Time\obj\Debug\net5.0\Time.AssemblyInfoInputs.cache
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Time\obj\Debug\net5.0\Time.AssemblyInfo.cs
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Time\obj\Debug\net5.0\Time.csproj.CoreCompileInputs.cache
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Time\obj\Debug\net5.0\Time.dll
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Time\obj\Debug\net5.0\ref\Time.dll
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Time\obj\Debug\net5.0\Time.pdb
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Time\obj\Debug\net5.0\Time.genruntimeconfig.cache

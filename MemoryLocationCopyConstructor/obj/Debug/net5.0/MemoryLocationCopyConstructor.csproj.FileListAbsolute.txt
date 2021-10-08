@@ -1,0 +1,5 @@
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/MemoryLocationCopyConstructor/obj/Debug/net5.0/MemoryLocationCopyConstructor.csproj.AssemblyReference.cache
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/MemoryLocationCopyConstructor/obj/Debug/net5.0/MemoryLocationCopyConstructor.GeneratedMSBuildEditorConfig.editorconfig
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/MemoryLocationCopyConstructor/obj/Debug/net5.0/MemoryLocationCopyConstructor.AssemblyInfoInputs.cache
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/MemoryLocationCopyConstructor/obj/Debug/net5.0/MemoryLocationCopyConstructor.AssemblyInfo.cs
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/MemoryLocationCopyConstructor/obj/Debug/net5.0/MemoryLocationCopyConstructor.csproj.CoreCompileInputs.cache

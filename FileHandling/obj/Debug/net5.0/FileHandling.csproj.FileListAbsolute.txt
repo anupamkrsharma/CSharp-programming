@@ -1,0 +1,16 @@
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\FileHandling\bin\Debug\net5.0\FileHandling.exe
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\FileHandling\bin\Debug\net5.0\FileHandling.deps.json
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\FileHandling\bin\Debug\net5.0\FileHandling.runtimeconfig.json
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\FileHandling\bin\Debug\net5.0\FileHandling.runtimeconfig.dev.json
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\FileHandling\bin\Debug\net5.0\FileHandling.dll
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\FileHandling\bin\Debug\net5.0\ref\FileHandling.dll
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\FileHandling\bin\Debug\net5.0\FileHandling.pdb
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\FileHandling\obj\Debug\net5.0\FileHandling.csproj.AssemblyReference.cache
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\FileHandling\obj\Debug\net5.0\FileHandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\FileHandling\obj\Debug\net5.0\FileHandling.AssemblyInfoInputs.cache
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\FileHandling\obj\Debug\net5.0\FileHandling.AssemblyInfo.cs
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\FileHandling\obj\Debug\net5.0\FileHandling.csproj.CoreCompileInputs.cache
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\FileHandling\obj\Debug\net5.0\FileHandling.dll
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\FileHandling\obj\Debug\net5.0\ref\FileHandling.dll
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\FileHandling\obj\Debug\net5.0\FileHandling.pdb
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\FileHandling\obj\Debug\net5.0\FileHandling.genruntimeconfig.cache

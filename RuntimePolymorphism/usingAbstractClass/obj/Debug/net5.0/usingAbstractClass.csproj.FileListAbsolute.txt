@@ -1,0 +1,16 @@
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/RuntimePolymorphism/usingAbstractClass/bin/Debug/net5.0/usingAbstractClass
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/RuntimePolymorphism/usingAbstractClass/bin/Debug/net5.0/usingAbstractClass.deps.json
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/RuntimePolymorphism/usingAbstractClass/bin/Debug/net5.0/usingAbstractClass.runtimeconfig.json
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/RuntimePolymorphism/usingAbstractClass/bin/Debug/net5.0/usingAbstractClass.runtimeconfig.dev.json
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/RuntimePolymorphism/usingAbstractClass/bin/Debug/net5.0/usingAbstractClass.dll
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/RuntimePolymorphism/usingAbstractClass/bin/Debug/net5.0/ref/usingAbstractClass.dll
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/RuntimePolymorphism/usingAbstractClass/bin/Debug/net5.0/usingAbstractClass.pdb
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/RuntimePolymorphism/usingAbstractClass/obj/Debug/net5.0/usingAbstractClass.csproj.AssemblyReference.cache
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/RuntimePolymorphism/usingAbstractClass/obj/Debug/net5.0/usingAbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/RuntimePolymorphism/usingAbstractClass/obj/Debug/net5.0/usingAbstractClass.AssemblyInfoInputs.cache
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/RuntimePolymorphism/usingAbstractClass/obj/Debug/net5.0/usingAbstractClass.AssemblyInfo.cs
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/RuntimePolymorphism/usingAbstractClass/obj/Debug/net5.0/usingAbstractClass.csproj.CoreCompileInputs.cache
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/RuntimePolymorphism/usingAbstractClass/obj/Debug/net5.0/usingAbstractClass.dll
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/RuntimePolymorphism/usingAbstractClass/obj/Debug/net5.0/ref/usingAbstractClass.dll
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/RuntimePolymorphism/usingAbstractClass/obj/Debug/net5.0/usingAbstractClass.pdb
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/RuntimePolymorphism/usingAbstractClass/obj/Debug/net5.0/usingAbstractClass.genruntimeconfig.cache

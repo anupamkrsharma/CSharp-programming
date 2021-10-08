@@ -1,0 +1,46 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text.RegularExpressions;
+
+namespace Rextester
+{
+    public delegate void delegateMethod();
+    class Number
+    {
+        public static void First()
+        {
+            Console.WriteLine("I m delegate called 1st method");
+        }
+        public static void Second()
+        {
+           Console.WriteLine("I m delegate called 2nd method");
+        }
+        public static void Third()
+        {
+            Console.WriteLine("I m delegate called 3rd method");
+        }
+        public static void Fourth()
+        {
+            Console.WriteLine("I m delegate called 4th method");
+        }
+    }
+    
+    public class Program
+    {
+        public static void Main(string[] args)
+        {
+            delegateMethod one = new delegateMethod(Number.First);
+            delegateMethod two = new delegateMethod(Number.Second);
+            delegateMethod three = new delegateMethod(Number.Third);
+            delegateMethod four = new delegateMethod(Number.Fourth);
+
+            delegateMethod common = one + two + three + four;
+            common.Invoke();
+            Console.WriteLine();
+            common = one - two;
+            common();
+            Console.WriteLine();
+        }
+    }
+}

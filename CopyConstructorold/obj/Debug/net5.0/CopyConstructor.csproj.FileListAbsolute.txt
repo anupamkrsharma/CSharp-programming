@@ -1,0 +1,16 @@
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/CopyConstructor/bin/Debug/net5.0/CopyConstructor
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/CopyConstructor/bin/Debug/net5.0/CopyConstructor.deps.json
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/CopyConstructor/bin/Debug/net5.0/CopyConstructor.runtimeconfig.json
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/CopyConstructor/bin/Debug/net5.0/CopyConstructor.runtimeconfig.dev.json
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/CopyConstructor/bin/Debug/net5.0/CopyConstructor.dll
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/CopyConstructor/bin/Debug/net5.0/ref/CopyConstructor.dll
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/CopyConstructor/bin/Debug/net5.0/CopyConstructor.pdb
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/CopyConstructor/obj/Debug/net5.0/CopyConstructor.csproj.AssemblyReference.cache
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/CopyConstructor/obj/Debug/net5.0/CopyConstructor.GeneratedMSBuildEditorConfig.editorconfig
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/CopyConstructor/obj/Debug/net5.0/CopyConstructor.AssemblyInfoInputs.cache
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/CopyConstructor/obj/Debug/net5.0/CopyConstructor.AssemblyInfo.cs
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/CopyConstructor/obj/Debug/net5.0/CopyConstructor.csproj.CoreCompileInputs.cache
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/CopyConstructor/obj/Debug/net5.0/CopyConstructor.dll
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/CopyConstructor/obj/Debug/net5.0/ref/CopyConstructor.dll
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/CopyConstructor/obj/Debug/net5.0/CopyConstructor.pdb
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/CopyConstructor/obj/Debug/net5.0/CopyConstructor.genruntimeconfig.cache

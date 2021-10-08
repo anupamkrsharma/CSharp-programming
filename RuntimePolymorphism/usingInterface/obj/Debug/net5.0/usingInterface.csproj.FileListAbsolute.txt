@@ -1,0 +1,16 @@
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/RuntimePolymorphism/usingInterface/obj/Debug/net5.0/usingInterface.csproj.AssemblyReference.cache
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/RuntimePolymorphism/usingInterface/obj/Debug/net5.0/usingInterface.GeneratedMSBuildEditorConfig.editorconfig
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/RuntimePolymorphism/usingInterface/obj/Debug/net5.0/usingInterface.AssemblyInfoInputs.cache
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/RuntimePolymorphism/usingInterface/obj/Debug/net5.0/usingInterface.AssemblyInfo.cs
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/RuntimePolymorphism/usingInterface/obj/Debug/net5.0/usingInterface.csproj.CoreCompileInputs.cache
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/RuntimePolymorphism/usingInterface/bin/Debug/net5.0/usingInterface
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/RuntimePolymorphism/usingInterface/bin/Debug/net5.0/usingInterface.deps.json
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/RuntimePolymorphism/usingInterface/bin/Debug/net5.0/usingInterface.runtimeconfig.json
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/RuntimePolymorphism/usingInterface/bin/Debug/net5.0/usingInterface.runtimeconfig.dev.json
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/RuntimePolymorphism/usingInterface/bin/Debug/net5.0/usingInterface.dll
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/RuntimePolymorphism/usingInterface/bin/Debug/net5.0/ref/usingInterface.dll
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/RuntimePolymorphism/usingInterface/bin/Debug/net5.0/usingInterface.pdb
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/RuntimePolymorphism/usingInterface/obj/Debug/net5.0/usingInterface.dll
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/RuntimePolymorphism/usingInterface/obj/Debug/net5.0/ref/usingInterface.dll
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/RuntimePolymorphism/usingInterface/obj/Debug/net5.0/usingInterface.pdb
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/RuntimePolymorphism/usingInterface/obj/Debug/net5.0/usingInterface.genruntimeconfig.cache

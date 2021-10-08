@@ -1,0 +1,16 @@
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Serialization\obj\Debug\net5.0\Serialization.csproj.AssemblyReference.cache
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Serialization\obj\Debug\net5.0\Serialization.GeneratedMSBuildEditorConfig.editorconfig
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Serialization\obj\Debug\net5.0\Serialization.AssemblyInfoInputs.cache
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Serialization\obj\Debug\net5.0\Serialization.AssemblyInfo.cs
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Serialization\obj\Debug\net5.0\Serialization.csproj.CoreCompileInputs.cache
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Serialization\bin\Debug\net5.0\Serialization.exe
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Serialization\bin\Debug\net5.0\Serialization.deps.json
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Serialization\bin\Debug\net5.0\Serialization.runtimeconfig.json
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Serialization\bin\Debug\net5.0\Serialization.runtimeconfig.dev.json
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Serialization\bin\Debug\net5.0\Serialization.dll
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Serialization\bin\Debug\net5.0\ref\Serialization.dll
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Serialization\bin\Debug\net5.0\Serialization.pdb
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Serialization\obj\Debug\net5.0\Serialization.dll
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Serialization\obj\Debug\net5.0\ref\Serialization.dll
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Serialization\obj\Debug\net5.0\Serialization.pdb
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Serialization\obj\Debug\net5.0\Serialization.genruntimeconfig.cache

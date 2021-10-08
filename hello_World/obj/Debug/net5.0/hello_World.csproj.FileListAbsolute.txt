@@ -1,0 +1,16 @@
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/hello_World/bin/Debug/net5.0/hello_World
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/hello_World/bin/Debug/net5.0/hello_World.deps.json
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/hello_World/bin/Debug/net5.0/hello_World.runtimeconfig.json
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/hello_World/bin/Debug/net5.0/hello_World.runtimeconfig.dev.json
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/hello_World/bin/Debug/net5.0/hello_World.dll
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/hello_World/bin/Debug/net5.0/ref/hello_World.dll
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/hello_World/bin/Debug/net5.0/hello_World.pdb
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/hello_World/obj/Debug/net5.0/hello_World.csproj.AssemblyReference.cache
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/hello_World/obj/Debug/net5.0/hello_World.GeneratedMSBuildEditorConfig.editorconfig
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/hello_World/obj/Debug/net5.0/hello_World.AssemblyInfoInputs.cache
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/hello_World/obj/Debug/net5.0/hello_World.AssemblyInfo.cs
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/hello_World/obj/Debug/net5.0/hello_World.csproj.CoreCompileInputs.cache
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/hello_World/obj/Debug/net5.0/hello_World.dll
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/hello_World/obj/Debug/net5.0/ref/hello_World.dll
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/hello_World/obj/Debug/net5.0/hello_World.pdb
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/hello_World/obj/Debug/net5.0/hello_World.genruntimeconfig.cache

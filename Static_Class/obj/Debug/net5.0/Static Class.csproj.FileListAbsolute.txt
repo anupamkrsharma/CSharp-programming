@@ -1,0 +1,32 @@
+D:/X Drive - 3/Mca File/MCA 5th/C# programs/Static Class/bin/Debug/net5.0/Static Class.exe
+D:/X Drive - 3/Mca File/MCA 5th/C# programs/Static Class/bin/Debug/net5.0/Static Class.deps.json
+D:/X Drive - 3/Mca File/MCA 5th/C# programs/Static Class/bin/Debug/net5.0/Static Class.runtimeconfig.json
+D:/X Drive - 3/Mca File/MCA 5th/C# programs/Static Class/bin/Debug/net5.0/Static Class.runtimeconfig.dev.json
+D:/X Drive - 3/Mca File/MCA 5th/C# programs/Static Class/bin/Debug/net5.0/Static Class.dll
+D:/X Drive - 3/Mca File/MCA 5th/C# programs/Static Class/bin/Debug/net5.0/ref/Static Class.dll
+D:/X Drive - 3/Mca File/MCA 5th/C# programs/Static Class/bin/Debug/net5.0/Static Class.pdb
+D:/X Drive - 3/Mca File/MCA 5th/C# programs/Static Class/obj/Debug/net5.0/Static Class.csproj.AssemblyReference.cache
+D:/X Drive - 3/Mca File/MCA 5th/C# programs/Static Class/obj/Debug/net5.0/Static Class.GeneratedMSBuildEditorConfig.editorconfig
+D:/X Drive - 3/Mca File/MCA 5th/C# programs/Static Class/obj/Debug/net5.0/Static Class.AssemblyInfoInputs.cache
+D:/X Drive - 3/Mca File/MCA 5th/C# programs/Static Class/obj/Debug/net5.0/Static Class.AssemblyInfo.cs
+D:/X Drive - 3/Mca File/MCA 5th/C# programs/Static Class/obj/Debug/net5.0/Static Class.csproj.CoreCompileInputs.cache
+D:/X Drive - 3/Mca File/MCA 5th/C# programs/Static Class/obj/Debug/net5.0/Static Class.dll
+D:/X Drive - 3/Mca File/MCA 5th/C# programs/Static Class/obj/Debug/net5.0/ref/Static Class.dll
+D:/X Drive - 3/Mca File/MCA 5th/C# programs/Static Class/obj/Debug/net5.0/Static Class.pdb
+D:/X Drive - 3/Mca File/MCA 5th/C# programs/Static Class/obj/Debug/net5.0/Static Class.genruntimeconfig.cache
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Static_Class/obj/Debug/net5.0/Static Class.csproj.AssemblyReference.cache
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Static_Class/obj/Debug/net5.0/Static Class.GeneratedMSBuildEditorConfig.editorconfig
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Static_Class/obj/Debug/net5.0/Static Class.AssemblyInfoInputs.cache
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Static_Class/obj/Debug/net5.0/Static Class.AssemblyInfo.cs
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Static_Class/obj/Debug/net5.0/Static Class.csproj.CoreCompileInputs.cache
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Static_Class/obj/Debug/net5.0/Static Class.dll
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Static_Class/obj/Debug/net5.0/ref/Static Class.dll
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Static_Class/obj/Debug/net5.0/Static Class.pdb
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Static_Class/bin/Debug/net5.0/Static Class
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Static_Class/bin/Debug/net5.0/Static Class.deps.json
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Static_Class/bin/Debug/net5.0/Static Class.runtimeconfig.json
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Static_Class/bin/Debug/net5.0/Static Class.runtimeconfig.dev.json
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Static_Class/bin/Debug/net5.0/Static Class.dll
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Static_Class/bin/Debug/net5.0/ref/Static Class.dll
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Static_Class/bin/Debug/net5.0/Static Class.pdb
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Static_Class/obj/Debug/net5.0/Static Class.genruntimeconfig.cache

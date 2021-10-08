@@ -1,0 +1,16 @@
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\MutableStrings\bin\Debug\net5.0\MutableStrings.exe
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\MutableStrings\bin\Debug\net5.0\MutableStrings.deps.json
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\MutableStrings\bin\Debug\net5.0\MutableStrings.runtimeconfig.json
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\MutableStrings\bin\Debug\net5.0\MutableStrings.runtimeconfig.dev.json
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\MutableStrings\bin\Debug\net5.0\MutableStrings.dll
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\MutableStrings\bin\Debug\net5.0\ref\MutableStrings.dll
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\MutableStrings\bin\Debug\net5.0\MutableStrings.pdb
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\MutableStrings\obj\Debug\net5.0\MutableStrings.csproj.AssemblyReference.cache
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\MutableStrings\obj\Debug\net5.0\MutableStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\MutableStrings\obj\Debug\net5.0\MutableStrings.AssemblyInfoInputs.cache
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\MutableStrings\obj\Debug\net5.0\MutableStrings.AssemblyInfo.cs
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\MutableStrings\obj\Debug\net5.0\MutableStrings.csproj.CoreCompileInputs.cache
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\MutableStrings\obj\Debug\net5.0\MutableStrings.dll
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\MutableStrings\obj\Debug\net5.0\ref\MutableStrings.dll
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\MutableStrings\obj\Debug\net5.0\MutableStrings.pdb
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\MutableStrings\obj\Debug\net5.0\MutableStrings.genruntimeconfig.cache

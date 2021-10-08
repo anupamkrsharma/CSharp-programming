@@ -1,0 +1,16 @@
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\UserExceptionHandling\obj\Debug\net5.0\UserExceptionHandling.csproj.AssemblyReference.cache
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\UserExceptionHandling\obj\Debug\net5.0\UserExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\UserExceptionHandling\obj\Debug\net5.0\UserExceptionHandling.AssemblyInfoInputs.cache
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\UserExceptionHandling\obj\Debug\net5.0\UserExceptionHandling.AssemblyInfo.cs
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\UserExceptionHandling\obj\Debug\net5.0\UserExceptionHandling.csproj.CoreCompileInputs.cache
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\UserExceptionHandling\bin\Debug\net5.0\UserExceptionHandling.exe
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\UserExceptionHandling\bin\Debug\net5.0\UserExceptionHandling.deps.json
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\UserExceptionHandling\bin\Debug\net5.0\UserExceptionHandling.runtimeconfig.json
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\UserExceptionHandling\bin\Debug\net5.0\UserExceptionHandling.runtimeconfig.dev.json
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\UserExceptionHandling\bin\Debug\net5.0\UserExceptionHandling.dll
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\UserExceptionHandling\bin\Debug\net5.0\ref\UserExceptionHandling.dll
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\UserExceptionHandling\bin\Debug\net5.0\UserExceptionHandling.pdb
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\UserExceptionHandling\obj\Debug\net5.0\UserExceptionHandling.dll
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\UserExceptionHandling\obj\Debug\net5.0\ref\UserExceptionHandling.dll
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\UserExceptionHandling\obj\Debug\net5.0\UserExceptionHandling.pdb
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\UserExceptionHandling\obj\Debug\net5.0\UserExceptionHandling.genruntimeconfig.cache

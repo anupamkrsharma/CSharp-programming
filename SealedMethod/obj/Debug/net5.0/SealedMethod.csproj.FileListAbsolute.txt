@@ -1,0 +1,16 @@
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\SealedMethod\bin\Debug\net5.0\SealedMethod.exe
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\SealedMethod\bin\Debug\net5.0\SealedMethod.deps.json
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\SealedMethod\bin\Debug\net5.0\SealedMethod.runtimeconfig.json
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\SealedMethod\bin\Debug\net5.0\SealedMethod.runtimeconfig.dev.json
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\SealedMethod\bin\Debug\net5.0\SealedMethod.dll
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\SealedMethod\bin\Debug\net5.0\ref\SealedMethod.dll
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\SealedMethod\bin\Debug\net5.0\SealedMethod.pdb
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\SealedMethod\obj\Debug\net5.0\SealedMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\SealedMethod\obj\Debug\net5.0\SealedMethod.AssemblyInfoInputs.cache
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\SealedMethod\obj\Debug\net5.0\SealedMethod.AssemblyInfo.cs
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\SealedMethod\obj\Debug\net5.0\SealedMethod.csproj.CoreCompileInputs.cache
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\SealedMethod\obj\Debug\net5.0\SealedMethod.dll
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\SealedMethod\obj\Debug\net5.0\ref\SealedMethod.dll
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\SealedMethod\obj\Debug\net5.0\SealedMethod.pdb
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\SealedMethod\obj\Debug\net5.0\SealedMethod.genruntimeconfig.cache
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\SealedMethod\obj\Debug\net5.0\SealedMethod.csproj.AssemblyReference.cache

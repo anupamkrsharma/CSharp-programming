@@ -1,0 +1,16 @@
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\OperatorOverloading\bin\Debug\net5.0\OperatorOverloading.exe
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\OperatorOverloading\bin\Debug\net5.0\OperatorOverloading.deps.json
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\OperatorOverloading\bin\Debug\net5.0\OperatorOverloading.runtimeconfig.json
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\OperatorOverloading\bin\Debug\net5.0\OperatorOverloading.runtimeconfig.dev.json
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\OperatorOverloading\bin\Debug\net5.0\OperatorOverloading.dll
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\OperatorOverloading\bin\Debug\net5.0\ref\OperatorOverloading.dll
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\OperatorOverloading\bin\Debug\net5.0\OperatorOverloading.pdb
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.csproj.AssemblyReference.cache
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.AssemblyInfoInputs.cache
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.AssemblyInfo.cs
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.csproj.CoreCompileInputs.cache
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.dll
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\OperatorOverloading\obj\Debug\net5.0\ref\OperatorOverloading.dll
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.pdb
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.genruntimeconfig.cache

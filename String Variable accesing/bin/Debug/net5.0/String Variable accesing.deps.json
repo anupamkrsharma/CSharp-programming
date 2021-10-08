@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "String Variable accesing/1.0.0": {
+        "runtime": {
+          "String Variable accesing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "String Variable accesing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

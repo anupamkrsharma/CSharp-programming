@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Shallow_vs_DeepCopy/Shallow_vs_DeepCopy.csproj": {}
+  },
+  "projects": {
+    "/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Shallow_vs_DeepCopy/Shallow_vs_DeepCopy.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Shallow_vs_DeepCopy/Shallow_vs_DeepCopy.csproj",
+        "projectName": "Shallow_vs_DeepCopy",
+        "projectPath": "/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Shallow_vs_DeepCopy/Shallow_vs_DeepCopy.csproj",
+        "packagesPath": "/home/anupam/.nuget/packages/",
+        "outputPath": "/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Shallow_vs_DeepCopy/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/anupam/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

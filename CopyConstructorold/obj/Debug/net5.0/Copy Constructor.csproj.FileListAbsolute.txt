@@ -1,0 +1,16 @@
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Copy Constructor\bin\Debug\net5.0\Copy Constructor.exe
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Copy Constructor\bin\Debug\net5.0\Copy Constructor.deps.json
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Copy Constructor\bin\Debug\net5.0\Copy Constructor.runtimeconfig.json
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Copy Constructor\bin\Debug\net5.0\Copy Constructor.runtimeconfig.dev.json
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Copy Constructor\bin\Debug\net5.0\Copy Constructor.dll
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Copy Constructor\bin\Debug\net5.0\ref\Copy Constructor.dll
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Copy Constructor\bin\Debug\net5.0\Copy Constructor.pdb
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Copy Constructor\obj\Debug\net5.0\Copy Constructor.csproj.AssemblyReference.cache
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Copy Constructor\obj\Debug\net5.0\Copy Constructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Copy Constructor\obj\Debug\net5.0\Copy Constructor.AssemblyInfoInputs.cache
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Copy Constructor\obj\Debug\net5.0\Copy Constructor.AssemblyInfo.cs
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Copy Constructor\obj\Debug\net5.0\Copy Constructor.csproj.CoreCompileInputs.cache
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Copy Constructor\obj\Debug\net5.0\Copy Constructor.dll
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Copy Constructor\obj\Debug\net5.0\ref\Copy Constructor.dll
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Copy Constructor\obj\Debug\net5.0\Copy Constructor.pdb
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Copy Constructor\obj\Debug\net5.0\Copy Constructor.genruntimeconfig.cache

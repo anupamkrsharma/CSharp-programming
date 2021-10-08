@@ -1,0 +1,16 @@
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Delegates\bin\Debug\net5.0\Delegates.exe
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Delegates\bin\Debug\net5.0\Delegates.deps.json
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Delegates\bin\Debug\net5.0\Delegates.runtimeconfig.json
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Delegates\bin\Debug\net5.0\Delegates.runtimeconfig.dev.json
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Delegates\bin\Debug\net5.0\Delegates.dll
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Delegates\bin\Debug\net5.0\ref\Delegates.dll
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Delegates\bin\Debug\net5.0\Delegates.pdb
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Delegates\obj\Debug\net5.0\Delegates.csproj.AssemblyReference.cache
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Delegates\obj\Debug\net5.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Delegates\obj\Debug\net5.0\Delegates.AssemblyInfoInputs.cache
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Delegates\obj\Debug\net5.0\Delegates.AssemblyInfo.cs
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Delegates\obj\Debug\net5.0\Delegates.csproj.CoreCompileInputs.cache
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Delegates\obj\Debug\net5.0\Delegates.dll
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Delegates\obj\Debug\net5.0\ref\Delegates.dll
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Delegates\obj\Debug\net5.0\Delegates.pdb
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Delegates\obj\Debug\net5.0\Delegates.genruntimeconfig.cache

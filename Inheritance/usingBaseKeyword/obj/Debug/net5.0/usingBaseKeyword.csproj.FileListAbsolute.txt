@@ -1,0 +1,16 @@
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/usingBaseKeyword/obj/Debug/net5.0/usingBaseKeyword.csproj.AssemblyReference.cache
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/usingBaseKeyword/obj/Debug/net5.0/usingBaseKeyword.GeneratedMSBuildEditorConfig.editorconfig
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/usingBaseKeyword/obj/Debug/net5.0/usingBaseKeyword.AssemblyInfoInputs.cache
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/usingBaseKeyword/obj/Debug/net5.0/usingBaseKeyword.AssemblyInfo.cs
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/usingBaseKeyword/obj/Debug/net5.0/usingBaseKeyword.csproj.CoreCompileInputs.cache
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/usingBaseKeyword/bin/Debug/net5.0/usingBaseKeyword
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/usingBaseKeyword/bin/Debug/net5.0/usingBaseKeyword.deps.json
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/usingBaseKeyword/bin/Debug/net5.0/usingBaseKeyword.runtimeconfig.json
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/usingBaseKeyword/bin/Debug/net5.0/usingBaseKeyword.runtimeconfig.dev.json
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/usingBaseKeyword/bin/Debug/net5.0/usingBaseKeyword.dll
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/usingBaseKeyword/bin/Debug/net5.0/ref/usingBaseKeyword.dll
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/usingBaseKeyword/bin/Debug/net5.0/usingBaseKeyword.pdb
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/usingBaseKeyword/obj/Debug/net5.0/usingBaseKeyword.dll
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/usingBaseKeyword/obj/Debug/net5.0/ref/usingBaseKeyword.dll
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/usingBaseKeyword/obj/Debug/net5.0/usingBaseKeyword.pdb
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/usingBaseKeyword/obj/Debug/net5.0/usingBaseKeyword.genruntimeconfig.cache

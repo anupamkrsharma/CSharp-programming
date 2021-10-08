@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YYxctHImWdrOJJizZ1LTvRNBcrYwUyeWF6car6PFvhKF2pIWvjlEo6ue99wemhswokAHRc2F7P9nTUBW3bBsuw==",
+  "success": true,
+  "projectFilePath": "/run/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/AccessModifiers/AccessModifiers.csproj",
+  "expectedPackageFiles": [
+    "/home/anupam/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

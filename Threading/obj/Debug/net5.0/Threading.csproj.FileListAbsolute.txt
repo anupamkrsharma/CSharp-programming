@@ -1,0 +1,16 @@
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Threading\bin\Debug\net5.0\Threading.exe
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Threading\bin\Debug\net5.0\Threading.deps.json
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Threading\bin\Debug\net5.0\Threading.runtimeconfig.json
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Threading\bin\Debug\net5.0\Threading.runtimeconfig.dev.json
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Threading\bin\Debug\net5.0\Threading.dll
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Threading\bin\Debug\net5.0\ref\Threading.dll
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Threading\bin\Debug\net5.0\Threading.pdb
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Threading\obj\Debug\net5.0\Threading.csproj.AssemblyReference.cache
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Threading\obj\Debug\net5.0\Threading.GeneratedMSBuildEditorConfig.editorconfig
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Threading\obj\Debug\net5.0\Threading.AssemblyInfoInputs.cache
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Threading\obj\Debug\net5.0\Threading.AssemblyInfo.cs
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Threading\obj\Debug\net5.0\Threading.csproj.CoreCompileInputs.cache
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Threading\obj\Debug\net5.0\Threading.dll
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Threading\obj\Debug\net5.0\ref\Threading.dll
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Threading\obj\Debug\net5.0\Threading.pdb
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\Threading\obj\Debug\net5.0\Threading.genruntimeconfig.cache

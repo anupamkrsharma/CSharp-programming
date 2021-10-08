@@ -1,0 +1,16 @@
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\String Variable accesing\bin\Debug\net5.0\String Variable accesing.exe
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\String Variable accesing\bin\Debug\net5.0\String Variable accesing.deps.json
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\String Variable accesing\bin\Debug\net5.0\String Variable accesing.runtimeconfig.json
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\String Variable accesing\bin\Debug\net5.0\String Variable accesing.runtimeconfig.dev.json
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\String Variable accesing\bin\Debug\net5.0\String Variable accesing.dll
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\String Variable accesing\bin\Debug\net5.0\ref\String Variable accesing.dll
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\String Variable accesing\bin\Debug\net5.0\String Variable accesing.pdb
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\String Variable accesing\obj\Debug\net5.0\String Variable accesing.csproj.AssemblyReference.cache
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\String Variable accesing\obj\Debug\net5.0\String Variable accesing.GeneratedMSBuildEditorConfig.editorconfig
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\String Variable accesing\obj\Debug\net5.0\String Variable accesing.AssemblyInfoInputs.cache
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\String Variable accesing\obj\Debug\net5.0\String Variable accesing.AssemblyInfo.cs
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\String Variable accesing\obj\Debug\net5.0\String Variable accesing.csproj.CoreCompileInputs.cache
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\String Variable accesing\obj\Debug\net5.0\String Variable accesing.dll
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\String Variable accesing\obj\Debug\net5.0\ref\String Variable accesing.dll
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\String Variable accesing\obj\Debug\net5.0\String Variable accesing.pdb
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\String Variable accesing\obj\Debug\net5.0\String Variable accesing.genruntimeconfig.cache

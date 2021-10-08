@@ -1,0 +1,16 @@
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/conceptOfUsing_this/bin/Debug/net5.0/conceptOfUsing_this
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/conceptOfUsing_this/bin/Debug/net5.0/conceptOfUsing_this.deps.json
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/conceptOfUsing_this/bin/Debug/net5.0/conceptOfUsing_this.runtimeconfig.json
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/conceptOfUsing_this/bin/Debug/net5.0/conceptOfUsing_this.runtimeconfig.dev.json
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/conceptOfUsing_this/bin/Debug/net5.0/conceptOfUsing_this.dll
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/conceptOfUsing_this/bin/Debug/net5.0/ref/conceptOfUsing_this.dll
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/conceptOfUsing_this/bin/Debug/net5.0/conceptOfUsing_this.pdb
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/conceptOfUsing_this/obj/Debug/net5.0/conceptOfUsing_this.csproj.AssemblyReference.cache
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/conceptOfUsing_this/obj/Debug/net5.0/conceptOfUsing_this.GeneratedMSBuildEditorConfig.editorconfig
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/conceptOfUsing_this/obj/Debug/net5.0/conceptOfUsing_this.AssemblyInfoInputs.cache
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/conceptOfUsing_this/obj/Debug/net5.0/conceptOfUsing_this.AssemblyInfo.cs
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/conceptOfUsing_this/obj/Debug/net5.0/conceptOfUsing_this.csproj.CoreCompileInputs.cache
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/conceptOfUsing_this/obj/Debug/net5.0/conceptOfUsing_this.dll
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/conceptOfUsing_this/obj/Debug/net5.0/ref/conceptOfUsing_this.dll
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/conceptOfUsing_this/obj/Debug/net5.0/conceptOfUsing_this.pdb
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/conceptOfUsing_this/obj/Debug/net5.0/conceptOfUsing_this.genruntimeconfig.cache

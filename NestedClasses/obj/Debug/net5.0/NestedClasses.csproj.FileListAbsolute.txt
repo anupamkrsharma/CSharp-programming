@@ -1,0 +1,16 @@
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/NestedClasses/bin/Debug/net5.0/NestedClasses
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/NestedClasses/bin/Debug/net5.0/NestedClasses.deps.json
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/NestedClasses/bin/Debug/net5.0/NestedClasses.runtimeconfig.json
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/NestedClasses/bin/Debug/net5.0/NestedClasses.runtimeconfig.dev.json
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/NestedClasses/bin/Debug/net5.0/NestedClasses.dll
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/NestedClasses/bin/Debug/net5.0/ref/NestedClasses.dll
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/NestedClasses/bin/Debug/net5.0/NestedClasses.pdb
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/NestedClasses/obj/Debug/net5.0/NestedClasses.csproj.AssemblyReference.cache
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/NestedClasses/obj/Debug/net5.0/NestedClasses.GeneratedMSBuildEditorConfig.editorconfig
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/NestedClasses/obj/Debug/net5.0/NestedClasses.AssemblyInfoInputs.cache
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/NestedClasses/obj/Debug/net5.0/NestedClasses.AssemblyInfo.cs
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/NestedClasses/obj/Debug/net5.0/NestedClasses.csproj.CoreCompileInputs.cache
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/NestedClasses/obj/Debug/net5.0/NestedClasses.dll
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/NestedClasses/obj/Debug/net5.0/ref/NestedClasses.dll
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/NestedClasses/obj/Debug/net5.0/NestedClasses.pdb
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/NestedClasses/obj/Debug/net5.0/NestedClasses.genruntimeconfig.cache

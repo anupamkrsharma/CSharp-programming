@@ -1,0 +1,16 @@
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/new_inOverriding/bin/Debug/net5.0/new_inOverriding
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/new_inOverriding/bin/Debug/net5.0/new_inOverriding.deps.json
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/new_inOverriding/bin/Debug/net5.0/new_inOverriding.runtimeconfig.json
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/new_inOverriding/bin/Debug/net5.0/new_inOverriding.runtimeconfig.dev.json
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/new_inOverriding/bin/Debug/net5.0/new_inOverriding.dll
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/new_inOverriding/bin/Debug/net5.0/ref/new_inOverriding.dll
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/new_inOverriding/bin/Debug/net5.0/new_inOverriding.pdb
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/new_inOverriding/obj/Debug/net5.0/new_inOverriding.csproj.AssemblyReference.cache
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/new_inOverriding/obj/Debug/net5.0/new_inOverriding.GeneratedMSBuildEditorConfig.editorconfig
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/new_inOverriding/obj/Debug/net5.0/new_inOverriding.AssemblyInfoInputs.cache
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/new_inOverriding/obj/Debug/net5.0/new_inOverriding.AssemblyInfo.cs
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/new_inOverriding/obj/Debug/net5.0/new_inOverriding.csproj.CoreCompileInputs.cache
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/new_inOverriding/obj/Debug/net5.0/new_inOverriding.dll
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/new_inOverriding/obj/Debug/net5.0/ref/new_inOverriding.dll
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/new_inOverriding/obj/Debug/net5.0/new_inOverriding.pdb
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/new_inOverriding/obj/Debug/net5.0/new_inOverriding.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Shallow_vs_DeepCopy/obj/Debug/net5.0/Shallow_vs_DeepCopy.csproj.AssemblyReference.cache
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Shallow_vs_DeepCopy/obj/Debug/net5.0/Shallow_vs_DeepCopy.GeneratedMSBuildEditorConfig.editorconfig
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Shallow_vs_DeepCopy/obj/Debug/net5.0/Shallow_vs_DeepCopy.AssemblyInfoInputs.cache
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Shallow_vs_DeepCopy/obj/Debug/net5.0/Shallow_vs_DeepCopy.AssemblyInfo.cs
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Shallow_vs_DeepCopy/obj/Debug/net5.0/Shallow_vs_DeepCopy.csproj.CoreCompileInputs.cache
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Shallow_vs_DeepCopy/bin/Debug/net5.0/Shallow_vs_DeepCopy
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Shallow_vs_DeepCopy/bin/Debug/net5.0/Shallow_vs_DeepCopy.deps.json
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Shallow_vs_DeepCopy/bin/Debug/net5.0/Shallow_vs_DeepCopy.runtimeconfig.json
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Shallow_vs_DeepCopy/bin/Debug/net5.0/Shallow_vs_DeepCopy.runtimeconfig.dev.json
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Shallow_vs_DeepCopy/bin/Debug/net5.0/Shallow_vs_DeepCopy.dll
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Shallow_vs_DeepCopy/bin/Debug/net5.0/ref/Shallow_vs_DeepCopy.dll
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Shallow_vs_DeepCopy/bin/Debug/net5.0/Shallow_vs_DeepCopy.pdb
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Shallow_vs_DeepCopy/obj/Debug/net5.0/Shallow_vs_DeepCopy.dll
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Shallow_vs_DeepCopy/obj/Debug/net5.0/ref/Shallow_vs_DeepCopy.dll
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Shallow_vs_DeepCopy/obj/Debug/net5.0/Shallow_vs_DeepCopy.pdb
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Shallow_vs_DeepCopy/obj/Debug/net5.0/Shallow_vs_DeepCopy.genruntimeconfig.cache

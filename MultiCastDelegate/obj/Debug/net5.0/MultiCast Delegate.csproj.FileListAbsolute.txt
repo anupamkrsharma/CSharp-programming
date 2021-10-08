@@ -1,0 +1,32 @@
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\MultiCast Delegate\bin\Debug\net5.0\MultiCast Delegate.exe
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\MultiCast Delegate\bin\Debug\net5.0\MultiCast Delegate.deps.json
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\MultiCast Delegate\bin\Debug\net5.0\MultiCast Delegate.runtimeconfig.json
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\MultiCast Delegate\bin\Debug\net5.0\MultiCast Delegate.runtimeconfig.dev.json
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\MultiCast Delegate\bin\Debug\net5.0\MultiCast Delegate.dll
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\MultiCast Delegate\bin\Debug\net5.0\ref\MultiCast Delegate.dll
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\MultiCast Delegate\bin\Debug\net5.0\MultiCast Delegate.pdb
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\MultiCast Delegate\obj\Debug\net5.0\MultiCast Delegate.csproj.AssemblyReference.cache
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\MultiCast Delegate\obj\Debug\net5.0\MultiCast Delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\MultiCast Delegate\obj\Debug\net5.0\MultiCast Delegate.AssemblyInfoInputs.cache
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\MultiCast Delegate\obj\Debug\net5.0\MultiCast Delegate.AssemblyInfo.cs
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\MultiCast Delegate\obj\Debug\net5.0\MultiCast Delegate.csproj.CoreCompileInputs.cache
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\MultiCast Delegate\obj\Debug\net5.0\MultiCast Delegate.dll
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\MultiCast Delegate\obj\Debug\net5.0\ref\MultiCast Delegate.dll
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\MultiCast Delegate\obj\Debug\net5.0\MultiCast Delegate.pdb
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\MultiCast Delegate\obj\Debug\net5.0\MultiCast Delegate.genruntimeconfig.cache
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\MultiCastDelegate\bin\Debug\net5.0\MultiCast Delegate.exe
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\MultiCastDelegate\bin\Debug\net5.0\MultiCast Delegate.deps.json
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\MultiCastDelegate\bin\Debug\net5.0\MultiCast Delegate.runtimeconfig.json
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\MultiCastDelegate\bin\Debug\net5.0\MultiCast Delegate.runtimeconfig.dev.json
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\MultiCastDelegate\bin\Debug\net5.0\MultiCast Delegate.dll
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\MultiCastDelegate\bin\Debug\net5.0\ref\MultiCast Delegate.dll
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\MultiCastDelegate\bin\Debug\net5.0\MultiCast Delegate.pdb
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\MultiCastDelegate\obj\Debug\net5.0\MultiCast Delegate.csproj.AssemblyReference.cache
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\MultiCastDelegate\obj\Debug\net5.0\MultiCast Delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\MultiCastDelegate\obj\Debug\net5.0\MultiCast Delegate.AssemblyInfoInputs.cache
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\MultiCastDelegate\obj\Debug\net5.0\MultiCast Delegate.AssemblyInfo.cs
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\MultiCastDelegate\obj\Debug\net5.0\MultiCast Delegate.csproj.CoreCompileInputs.cache
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\MultiCastDelegate\obj\Debug\net5.0\MultiCast Delegate.dll
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\MultiCastDelegate\obj\Debug\net5.0\ref\MultiCast Delegate.dll
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\MultiCastDelegate\obj\Debug\net5.0\MultiCast Delegate.pdb
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\MultiCastDelegate\obj\Debug\net5.0\MultiCast Delegate.genruntimeconfig.cache

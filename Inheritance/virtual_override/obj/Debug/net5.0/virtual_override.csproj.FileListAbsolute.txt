@@ -1,0 +1,16 @@
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/virtual_override/bin/Debug/net5.0/virtual_override
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/virtual_override/bin/Debug/net5.0/virtual_override.deps.json
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/virtual_override/bin/Debug/net5.0/virtual_override.runtimeconfig.json
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/virtual_override/bin/Debug/net5.0/virtual_override.runtimeconfig.dev.json
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/virtual_override/bin/Debug/net5.0/virtual_override.dll
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/virtual_override/bin/Debug/net5.0/ref/virtual_override.dll
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/virtual_override/bin/Debug/net5.0/virtual_override.pdb
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/virtual_override/obj/Debug/net5.0/virtual_override.csproj.AssemblyReference.cache
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/virtual_override/obj/Debug/net5.0/virtual_override.GeneratedMSBuildEditorConfig.editorconfig
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/virtual_override/obj/Debug/net5.0/virtual_override.AssemblyInfoInputs.cache
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/virtual_override/obj/Debug/net5.0/virtual_override.AssemblyInfo.cs
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/virtual_override/obj/Debug/net5.0/virtual_override.csproj.CoreCompileInputs.cache
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/virtual_override/obj/Debug/net5.0/virtual_override.dll
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/virtual_override/obj/Debug/net5.0/ref/virtual_override.dll
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/virtual_override/obj/Debug/net5.0/virtual_override.pdb
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/Inheritance/virtual_override/obj/Debug/net5.0/virtual_override.genruntimeconfig.cache

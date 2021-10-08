@@ -1,0 +1,48 @@
+D:/X Drive - 3/Mca File/MCA 5th/C# programs/Static and Private Constructor/bin/Debug/net5.0/Static and Private Constructor.exe
+D:/X Drive - 3/Mca File/MCA 5th/C# programs/Static and Private Constructor/bin/Debug/net5.0/Static and Private Constructor.deps.json
+D:/X Drive - 3/Mca File/MCA 5th/C# programs/Static and Private Constructor/bin/Debug/net5.0/Static and Private Constructor.runtimeconfig.json
+D:/X Drive - 3/Mca File/MCA 5th/C# programs/Static and Private Constructor/bin/Debug/net5.0/Static and Private Constructor.runtimeconfig.dev.json
+D:/X Drive - 3/Mca File/MCA 5th/C# programs/Static and Private Constructor/bin/Debug/net5.0/Static and Private Constructor.dll
+D:/X Drive - 3/Mca File/MCA 5th/C# programs/Static and Private Constructor/bin/Debug/net5.0/ref/Static and Private Constructor.dll
+D:/X Drive - 3/Mca File/MCA 5th/C# programs/Static and Private Constructor/bin/Debug/net5.0/Static and Private Constructor.pdb
+D:/X Drive - 3/Mca File/MCA 5th/C# programs/Static and Private Constructor/obj/Debug/net5.0/Static and Private Constructor.csproj.AssemblyReference.cache
+D:/X Drive - 3/Mca File/MCA 5th/C# programs/Static and Private Constructor/obj/Debug/net5.0/Static and Private Constructor.GeneratedMSBuildEditorConfig.editorconfig
+D:/X Drive - 3/Mca File/MCA 5th/C# programs/Static and Private Constructor/obj/Debug/net5.0/Static and Private Constructor.AssemblyInfoInputs.cache
+D:/X Drive - 3/Mca File/MCA 5th/C# programs/Static and Private Constructor/obj/Debug/net5.0/Static and Private Constructor.AssemblyInfo.cs
+D:/X Drive - 3/Mca File/MCA 5th/C# programs/Static and Private Constructor/obj/Debug/net5.0/Static and Private Constructor.csproj.CoreCompileInputs.cache
+D:/X Drive - 3/Mca File/MCA 5th/C# programs/Static and Private Constructor/obj/Debug/net5.0/Static and Private Constructor.dll
+D:/X Drive - 3/Mca File/MCA 5th/C# programs/Static and Private Constructor/obj/Debug/net5.0/ref/Static and Private Constructor.dll
+D:/X Drive - 3/Mca File/MCA 5th/C# programs/Static and Private Constructor/obj/Debug/net5.0/Static and Private Constructor.pdb
+D:/X Drive - 3/Mca File/MCA 5th/C# programs/Static and Private Constructor/obj/Debug/net5.0/Static and Private Constructor.genruntimeconfig.cache
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/StaticandPrivateConstructor/bin/Debug/net5.0/Static and Private Constructor
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/StaticandPrivateConstructor/bin/Debug/net5.0/Static and Private Constructor.deps.json
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/StaticandPrivateConstructor/bin/Debug/net5.0/Static and Private Constructor.runtimeconfig.json
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/StaticandPrivateConstructor/bin/Debug/net5.0/Static and Private Constructor.runtimeconfig.dev.json
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/StaticandPrivateConstructor/bin/Debug/net5.0/Static and Private Constructor.dll
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/StaticandPrivateConstructor/bin/Debug/net5.0/ref/Static and Private Constructor.dll
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/StaticandPrivateConstructor/bin/Debug/net5.0/Static and Private Constructor.pdb
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/StaticandPrivateConstructor/obj/Debug/net5.0/Static and Private Constructor.csproj.AssemblyReference.cache
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/StaticandPrivateConstructor/obj/Debug/net5.0/Static and Private Constructor.GeneratedMSBuildEditorConfig.editorconfig
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/StaticandPrivateConstructor/obj/Debug/net5.0/Static and Private Constructor.AssemblyInfoInputs.cache
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/StaticandPrivateConstructor/obj/Debug/net5.0/Static and Private Constructor.AssemblyInfo.cs
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/StaticandPrivateConstructor/obj/Debug/net5.0/Static and Private Constructor.csproj.CoreCompileInputs.cache
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/StaticandPrivateConstructor/obj/Debug/net5.0/Static and Private Constructor.dll
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/StaticandPrivateConstructor/obj/Debug/net5.0/ref/Static and Private Constructor.dll
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/StaticandPrivateConstructor/obj/Debug/net5.0/Static and Private Constructor.pdb
+/media/anupam/AE94AA2094A9EB53/X Drive - 3/Mca File/MCA 5th/C# programs/StaticandPrivateConstructor/obj/Debug/net5.0/Static and Private Constructor.genruntimeconfig.cache
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\StaticandPrivateConstructor\bin\Debug\net5.0\Static and Private Constructor.exe
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\StaticandPrivateConstructor\bin\Debug\net5.0\Static and Private Constructor.deps.json
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\StaticandPrivateConstructor\bin\Debug\net5.0\Static and Private Constructor.runtimeconfig.json
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\StaticandPrivateConstructor\bin\Debug\net5.0\Static and Private Constructor.runtimeconfig.dev.json
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\StaticandPrivateConstructor\bin\Debug\net5.0\Static and Private Constructor.dll
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\StaticandPrivateConstructor\bin\Debug\net5.0\ref\Static and Private Constructor.dll
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\StaticandPrivateConstructor\bin\Debug\net5.0\Static and Private Constructor.pdb
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\StaticandPrivateConstructor\obj\Debug\net5.0\Static and Private Constructor.csproj.AssemblyReference.cache
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\StaticandPrivateConstructor\obj\Debug\net5.0\Static and Private Constructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\StaticandPrivateConstructor\obj\Debug\net5.0\Static and Private Constructor.AssemblyInfoInputs.cache
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\StaticandPrivateConstructor\obj\Debug\net5.0\Static and Private Constructor.AssemblyInfo.cs
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\StaticandPrivateConstructor\obj\Debug\net5.0\Static and Private Constructor.csproj.CoreCompileInputs.cache
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\StaticandPrivateConstructor\obj\Debug\net5.0\Static and Private Constructor.dll
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\StaticandPrivateConstructor\obj\Debug\net5.0\ref\Static and Private Constructor.dll
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\StaticandPrivateConstructor\obj\Debug\net5.0\Static and Private Constructor.pdb
+D:\X Drive - 3\Mca File\MCA 5th\C# programs\StaticandPrivateConstructor\obj\Debug\net5.0\Static and Private Constructor.genruntimeconfig.cache
